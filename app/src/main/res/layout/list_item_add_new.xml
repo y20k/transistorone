@@ -23,7 +23,7 @@
         android:text="@string/descr_list_add_new"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-        android:textColor="@color/transistor_grey_light"
+        android:textColor="@color/transistorone_grey_light"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

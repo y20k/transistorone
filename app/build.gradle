@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId 'org.y20k.transistor'
+        applicationId 'org.y20k.transistorone'
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 71

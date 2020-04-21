@@ -2,43 +2,43 @@
 <resources>
 
     <!-- DAY THEME COLORS -->
-    <color name="app_window_background">@color/transistor_white</color>
-    <color name="status_bar_background">@color/transistor_white</color>
-    <color name="app_onboarding_icons">@color/transistor_grey_dark</color>
+    <color name="app_window_background">@color/transistorone_white</color>
+    <color name="status_bar_background">@color/transistorone_white</color>
+    <color name="app_onboarding_icons">@color/transistorone_grey_dark</color>
 
-    <color name="player_sheet_background_main">@color/transistor_grey_darker</color>
-    <color name="player_sheet_background_main_border">@color/transistor_grey_darker</color>
-    <color name="player_sheet_text_main">@color/transistor_white</color>
-    <color name="player_sheet_background_details">@color/transistor_grey_dark</color>
-    <color name="player_sheet_text_details">@color/transistor_white</color>
-    <color name="player_button_background">@color/transistor_red</color>
+    <color name="player_sheet_background_main">@color/transistorone_grey_darker</color>
+    <color name="player_sheet_background_main_border">@color/transistorone_grey_darker</color>
+    <color name="player_sheet_text_main">@color/transistorone_white</color>
+    <color name="player_sheet_background_details">@color/transistorone_grey_dark</color>
+    <color name="player_sheet_text_details">@color/transistorone_white</color>
+    <color name="player_button_background">@color/transistorone_red</color>
 
-    <color name="list_item_background">@color/transistor_white</color>
-    <color name="list_item_background_selected">@color/transistor_grey_very_light</color>
-    <color name="list_item_divider">@color/transistor_grey_very_light</color>
+    <color name="list_item_background">@color/transistorone_white</color>
+    <color name="list_item_background_selected">@color/transistorone_grey_very_light</color>
+    <color name="list_item_divider">@color/transistorone_grey_very_light</color>
 
-    <color name="station_image_background">@color/transistor_grey_lighter</color>
+    <color name="station_image_background">@color/transistorone_grey_lighter</color>
 
 
     <!-- COLOR NAMES -->
-    <color name="transistor_grey">#FF5F6368</color>             <!-- Material Design 2: Grey 700 -->
-    <color name="transistor_grey_light">#FFBDC1C6</color>       <!-- Material Design 2: Grey 400 -->
-    <color name="transistor_grey_lighter">#FFD2D6DA</color>
-    <color name="transistor_grey_very_light">#FFF1F3F4</color>  <!-- Material Design 2: Grey 100 -->
-    <color name="transistor_grey_dark">#FF3C4043</color>        <!-- Material Design 2: Grey 800 -->
-    <color name="transistor_grey_darker">#FF17181A</color>
+    <color name="transistorone_grey">#FF5F6368</color>             <!-- Material Design 2: Grey 700 -->
+    <color name="transistorone_grey_light">#FFBDC1C6</color>       <!-- Material Design 2: Grey 400 -->
+    <color name="transistorone_grey_lighter">#FFD2D6DA</color>
+    <color name="transistorone_grey_very_light">#FFF1F3F4</color>  <!-- Material Design 2: Grey 100 -->
+    <color name="transistorone_grey_dark">#FF3C4043</color>        <!-- Material Design 2: Grey 800 -->
+    <color name="transistorone_grey_darker">#FF17181A</color>
 
-    <color name="transistor_red">#FFDC3D33</color>              <!-- Slightly muted variant of -> Material Design 2: Red 600 -->
-    <color name="transistor_red_light">#FFE15950</color>
-    <color name="transistor_red_dark">#FFCA2D23</color>
-    <color name="transistor_red_darker">#FFAD261E</color>
+    <color name="transistorone_red">#FFDC3D33</color>              <!-- Slightly muted variant of -> Material Design 2: Red 600 -->
+    <color name="transistorone_red_light">#FFE15950</color>
+    <color name="transistorone_red_dark">#FFCA2D23</color>
+    <color name="transistorone_red_darker">#FFAD261E</color>
 
-    <!-- <color name="transistor_blue">#FF3C98DB</color>
-    <color name="transistor_blue_light">#FF4DAEF4</color>
-    <color name="transistor_blue_dark">#FF19405B</color> -->
+    <!-- <color name="transistorone_blue">#FF3C98DB</color>
+    <color name="transistorone_blue_light">#FF4DAEF4</color>
+    <color name="transistorone_blue_dark">#FF19405B</color> -->
 
-    <color name="transistor_black">#FF000000</color>
-    <color name="transistor_white">#FFFFFFFF</color>
-    <color name="transistor_transparent">#00ffffff</color>
+    <color name="transistorone_black">#FF000000</color>
+    <color name="transistorone_white">#FFFFFFFF</color>
+    <color name="transistorone_transparent">#00ffffff</color>
 
 </resources>

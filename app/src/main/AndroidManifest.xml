@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.y20k.transistor">
+    package="org.y20k.transistorone">
 
     <!-- NORMAL PERMISSIONS, automatically granted -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
@@ -124,9 +124,9 @@
                 <action android:name="android.media.browse.MediaBrowserService"/>
             </intent-filter>
             <intent-filter>
-                <action android:name="org.y20k.transistor.action.PLAY" />
-                <action android:name="org.y20k.transistor.action.STOP" />
-                <action android:name="org.y20k.transistor.action.DISMISS" />
+                <action android:name="org.y20k.transistorone.action.PLAY" />
+                <action android:name="org.y20k.transistorone.action.STOP" />
+                <action android:name="org.y20k.transistorone.action.DISMISS" />
             </intent-filter>
             <intent-filter>
                 <action android:name="android.intent.action.MEDIA_BUTTON" />
