@@ -13,8 +13,8 @@ android {
         applicationId 'org.y20k.transistorone'
         minSdkVersion 19
         targetSdkVersion 29
-        versionCode 71
-        versionName '3.2.4'
+        versionCode 72
+        versionName '3.2.5'
 
         vectorDrawables.useSupportLibrary = true
         resConfigs "en", "ar", "ca", "cs","de", "el", "es", "eu", "fr", "id", "in", "it", "ja", "kab", "nb-rNO", "nl", "pa", "pl", "pt", "pt-rBR", "ru", "sk", "sl", "sr", "th", "tr", "uk", "zh-rCN"
@@ -50,8 +50,8 @@ dependencies {
 
     implementation "com.google.android.material:material:1.1.0-beta01"
 
-    implementation "com.google.android.exoplayer:exoplayer-core:2.10.8"
-    implementation "com.google.android.exoplayer:exoplayer-hls:2.10.8"
+    implementation "com.google.android.exoplayer:exoplayer-core:2.11.4"
+    implementation "com.google.android.exoplayer:exoplayer-hls:2.11.4"
 
 }
 
