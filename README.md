@@ -14,7 +14,7 @@ Transistor One is free software. It is published under the [MIT open source lice
 
 Transistor One, Transistor? How confusing!
 ------------------
-Transistor One is the old Transistor app before version 4.x. The new [Transistor]((https://github.com/y20k/transistor/) only supports Android from version 7.1 on upwards. Transistor One on the other hand runs on Android devices from version 4.4 on. Transistor Ones is just a maintainance fork of the old Transtistor 3.2. Do not expect any new features.
+Transistor One is the old Transistor app before version 4.x. The new [Transistor](https://github.com/y20k/transistor/) only supports Android from version 7.1 on upwards. Transistor One on the other hand runs on Android devices from version 4.4 on. Transistor Ones is just a maintainance fork of the old Transtistor 3.2. Do not expect any new features.
 
 How to use Transistor One
 ---------------------
