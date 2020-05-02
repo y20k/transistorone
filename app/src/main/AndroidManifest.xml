@@ -15,7 +15,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name=".Transistor"
+        android:name=".TransistorOne"
         android:usesCleartextTraffic="true"
         android:allowAudioPlaybackCapture="true"
         android:allowBackup="true"

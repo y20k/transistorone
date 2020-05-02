@@ -1,7 +1,7 @@
 /**
- * Transistor.java
- * Implements the Transistor class
- * Transistor starts up the app and sets up the basic theme (Day / Night)
+ * TransistorOne.java
+ * Implements the TransistorOne class
+ * TransistorOne starts up the app and sets up the basic theme (Day / Night)
  *
  * This file is part of
  * TRANSISTOR - Radio App for Android
@@ -20,12 +20,12 @@ import org.y20k.transistorone.helpers.NightModeHelper;
 
 
 /**
- * Transistor.class
+ * TransistorOne class
  */
-public class Transistor extends Application {
+public class TransistorOne extends Application {
 
     /* Define log tag */
-    private static final String LOG_TAG = Transistor.class.getSimpleName();
+    private static final String LOG_TAG = TransistorOne.class.getSimpleName();
 
 
     @Override
